@@ -1,0 +1,28 @@
+body{
+
+    background: url(Ljpogi123.jpg);
+}
+form{
+    width: 360px;
+    height: 400px;
+    margin: auto;
+    background-color: whitesmoke;
+    
+    border-radius: 10px;
+}
+.Terms{
+    color: white;
+
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+}
+h2{
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+
+    
